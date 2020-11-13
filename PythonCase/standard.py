@@ -1,12 +1,18 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-' a test module '
+"""
+Version: 0.1
+Author: Cjx
+Date: 2020-11-13
+
+This is a standard Python file.
+"""
 
 __author__ = 'Cjx'
 
 def main():
-    print('this is a standard py')
+    print('This is a standard Python file.')
 
 
 if __name__=='__main__':
